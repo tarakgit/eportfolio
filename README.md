@@ -24,10 +24,11 @@
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Sentiment-Driven Classification of Footwear Reviews of Amazon
+[Publication](https://www.kaggle.com/code/tarak369/classification-based-on-sentiment-analysis)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed a sophisticated analysis framework that can accurately classify customer reviews into three distinct sentiment categories: good, bad, and neutral. By achieving a granular understanding of customer sentiments associated with each
+product, this project seeks to contribute significantly to the development of advanced recommender systems.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
