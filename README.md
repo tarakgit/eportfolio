@@ -9,16 +9,19 @@
 
 ## Work Experience
 **Lead Engineer System Support@ FIS Global (_July 2019 - Aug 2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Designed Power BI and Splunk Dashboards and alerts for Monitoring and automated manual tasks to boost operational efficiency.
+- Executed migration of Java applications between in-house Data Centers and Cloud environments (AWS, Azure, Century Link), Achieved a 28% reduction in infrastructure maintenance costs.
+- Built Mobile Banking and Switch (POS Transactions) Java Application Environments, enabling users and merchants to manage their finances 24/7 and enhancing the customer experience for major clients of FIS.
 
 **Senior Technical Associate @ Sears Holdings (_Jan 2017 - March 2019_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Migrated applications from WebLogic and WebSphere to Wild Fly (Red Hat JBoss) EAP servers, upgrading them to higher versions. This strategic shift aimed to seamlessly integrate with modern technologies, achieve superior scalability and performance, cost savings, and promote vendor neutrality.
+- Implemented (CI/CD) Jenkins, Maven, Rundeck, Bitbucket, GIT, and SVN for automated deployments. This strategic integration empowered the organization to swiftly adapt to market demands.
+- Implemented SSL and Vulnerability Management strategies, aimed at fostering a secure online shopping and banking experience by addressing potential vulnerabilities, and protecting sensitive information.
 
 **Clincal Database Developer @ Noartis (_Jan 2015 - March 2016_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Load and Clean Data as per the NOVDD Standards received from the CROs and Lab’s for processing data essential for clinical trials addressing unmet medical needs.
+- Built clinical Oracle databases with NOVDD and OCRDC to store clinical trial data for FDA, USA, and EMEA clinical trial submissions contributing to the overall drug development process.
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
