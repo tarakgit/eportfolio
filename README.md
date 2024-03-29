@@ -3,9 +3,9 @@
 #### Technical Skills: Tableau, R, Python, SQL, Azure, AWS, DevOps, Middleware, SRE
 
 ## Education
-- M.S., Data Science | DePaul University at Chicago (_Expected March 2025_)								       		
-- M.tech., Database Systems	| SRM University at Chennai (_March 2014_)	 			        		
-- B.tech., Computer Science Engineering | JNT University at Hyderabad (_May 2011_)
+- M.S.,Data Science        | DePaul University, Chicago (_March 2025_)								       		
+- M.Tech.,Database Systems | SRM University, Chennai (_March 2014_)	 			        		
+- B.Tech.,Computer Science | JNT University, Hyderabad (_May 2011_)
 
 ## Work Experience
 **Lead Engineer System Support@ FIS Global (_July 2019 - Aug 2023_)**
