@@ -30,7 +30,10 @@
 Developed a sophisticated analysis framework that can accurately classify customer reviews into three distinct sentiment categories: good, bad, and neutral. By achieving a granular understanding of customer sentiments associated with each
 product, this project seeks to contribute significantly to the development of advanced recommender systems.
 
+### American Healthcare: Visualizing the Digital Threat 
 ![EEG Band Discovery](/images/healthcarecomplianceproscom_645624885.jpg)
+This data originates from the U.S. Department of Health and Human Services (HHS) Office for Civil Rights portal, encompassing healthcare data breaches across various locations in the United States from Oct 2009 to Sep 2021
+Aim:To uncover patterns and insights that can help understand the prevalent vulnerabilities within the healthcare sector, particularly regarding data security.
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
