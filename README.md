@@ -25,7 +25,7 @@
 
 ## Projects
 ### Sentiment-Driven Classification of Footwear Reviews of Amazon
-[Publication](https://www.kaggle.com/code/tarak369/classification-based-on-sentiment-analysis)
+[Kaggle Publication](https://www.kaggle.com/code/tarak369/classification-based-on-sentiment-analysis)
 
 Developed a sophisticated analysis framework that can accurately classify customer reviews into three distinct sentiment categories: good, bad, and neutral. By achieving a granular understanding of customer sentiments associated with each
 product, this project seeks to contribute significantly to the development of advanced recommender systems.
