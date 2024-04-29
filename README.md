@@ -1,4 +1,4 @@
-# Data Science Maverick with expertise in Middleware and DevOps
+# Data Science Graduate with expertise in Middleware and DevOps
 
 #### Technical Skills: Data Science, Machine Learning,Tableau, R, Python, SQL, Azure, AWS, DevOps, Middleware, SRE
 
