@@ -1,4 +1,4 @@
-# Data Science Graduate along with professional expertise in Cloud Migration,Middleware and DevOps
+## Data Science Graduate along with professional expertise in Cloud Migration,Middleware and DevOps
 
 #### Technical Skills: Data Science, Machine Learning,Tableau, R, Python, SQL, Azure, AWS, DevOps, Middleware, SRE
 
