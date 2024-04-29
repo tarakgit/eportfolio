@@ -1,4 +1,4 @@
-# Data Science Graduate with expertise in Middleware and DevOps
+# Data Science Graduate along with professional expertise in Cloud Migration,Middleware and DevOps
 
 #### Technical Skills: Data Science, Machine Learning,Tableau, R, Python, SQL, Azure, AWS, DevOps, Middleware, SRE
 
@@ -26,9 +26,16 @@
 ## Projects
 ### Sentiment-Driven Classification of Footwear Reviews of Amazon
 [Kaggle Publication](https://www.kaggle.com/code/tarak369/classification-based-on-sentiment-analysis)
-
 Developed a sophisticated analysis framework that can accurately classify customer reviews into three distinct sentiment categories: good, bad, and neutral. By achieving a granular understanding of customer sentiments associated with each
 product, this project seeks to contribute significantly to the development of advanced recommender systems.
+
+### Forecasting Social Media Trends On Online Content through Logistic Regression
+[Kaggle Publication](https://www.kaggle.com/code/tarak369/analyzing-and-predicting-social-media-engagement)
+Implemented predictive analytics solutions utilizing the Online News Popularity dataset to predict article shares across social media platforms, with a focus on content published by Mashable.
+
+### Pose Recognition in images using CNN
+[Colab](https://colab.research.google.com/drive/18wfr2XDdRHIA2drW7LDxnEdoJx1Og_aU?usp=sharing)
+Tailored a dedicated Convolutional Neural Network (CNN) architecture specifically for yoga poses,with Keras, and clustering analysis, optimizing model performance through insights from pre-trained models and advanced feature engineering techniques.
 
 ### American Healthcare: Visualizing the Digital Threat 
 ![EEG Band Discovery](/images/healthcarecomplianceproscom_645624885.jpg)
