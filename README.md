@@ -10,7 +10,8 @@
 ## Work Experience
 
 **Research Assistant@ DePaul University (_Apr 2024 - Till Date_)**
-- Implement Reinforcement and Fedeated Learning based FOG computing for Effective Resource Management
+- Federated and Reinforcement Learning approach for efficient NFV Resource Management and Task Scheduling in Fog Computing.
+
 
 **Lead Engineer System Support@ FIS Global (_July 2019 - Aug 2023_)**
 - Designed Power BI and Splunk Dashboards and alerts for Monitoring and automated manual tasks to boost operational efficiency.
