@@ -1,4 +1,4 @@
-## Data Science Graduate along with professional expertise in Data Analysis,ML,Cloud,Infra OPs.
+## Data Science Graduate along with professional expertise in Data Analysis,ML,Cloud,Infra Ops.
 
 #### Technical Skills: Data Science, Machine Learning,Tableau, R, Python, SQL, Azure,MLOPS,SRE
 
