@@ -1,6 +1,6 @@
-## Data Science Graduate along with professional expertise in Cloud Migration,Middleware and DevOps
+## Data Science Graduate along with professional expertise in Data Analysis,ML,Cloud,Infra OPs.
 
-#### Technical Skills: Data Science, Machine Learning,Tableau, R, Python, SQL, Azure, AWS, DevOps, Middleware, SRE
+#### Technical Skills: Data Science, Machine Learning,Tableau, R, Python, SQL, Azure,MLOPS,SRE
 
 ## Education
 - M.S.,Data Science        | DePaul University, Chicago (_March 2025_)								       		
