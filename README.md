@@ -8,6 +8,10 @@
 - B.Tech.,Computer Science | JNT University, Hyderabad (_May 2011_)
 
 ## Work Experience
+
+**Research Assistant@ DePaul University (_Apr 2024 - Till Date_)**
+- Implement Reinforcement and Fedeated Learning based FOG computing for Effective Resource Management
+
 **Lead Engineer System Support@ FIS Global (_July 2019 - Aug 2023_)**
 - Designed Power BI and Splunk Dashboards and alerts for Monitoring and automated manual tasks to boost operational efficiency.
 - Executed migration of Java applications between in-house Data Centers and Cloud environments (AWS, Azure, Century Link), Achieved a 28% reduction in infrastructure maintenance costs.
