@@ -10,7 +10,7 @@
 ## Work Experience
 
 **Research Assistant@ DePaul University (_Apr 2024 - Till Date_)**
-- Federated and Reinforcement Learning approach for efficient NFV Resource Management and Task Scheduling in Fog Computing.
+- ML approach for efficient NFV Resource Management and SFC Provisioning in Fog Computing.
 
 
 **Lead Engineer System Support@ FIS Global (_July 2019 - Aug 2023_)**
