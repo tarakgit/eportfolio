@@ -1,6 +1,6 @@
 ## Data Science Graduate along with professional expertise in Data Analysis,Cloud,Infra Ops.
 Actively transitioning from Infra Ops to a Data Science career with strong skills in Python, ML, Image
-Processing,NLP,LLM's & GenAI.
+Processing, NLP, LLM's & GenAI.
 
 #### Technical Skills: Data Science,Machine Learning,Tableau,R,Python,SQL,Azure,MLOPS,SRE
 
