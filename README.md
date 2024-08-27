@@ -1,8 +1,8 @@
 ## Data Science Graduate along with professional expertise in Data Analysis,Cloud,Infra Ops.
-Actively transitioning from Infra Ops to a Data Science career with strong skills in Python, ML, NLP & Image
-Processing, GenAI
+Actively transitioning from Infra Ops to a Data Science career with strong skills in Python, ML, Image
+Processing,NLP,LLM's & GenAI.
 
-#### Technical Skills: Data Science, Machine Learning,Tableau, R, Python, SQL, Azure,MLOPS,SRE
+#### Technical Skills: Data Science,Machine Learning,Tableau,R,Python,SQL,Azure,MLOPS,SRE
 
 ## Education
 - M.S.,Data Science        | DePaul University, Chicago (_March 2025_)								       		
