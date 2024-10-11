@@ -5,9 +5,9 @@ Processing, NLP, LLM's & GenAI.
 #### Technical Skills: Data Science,Machine Learning,Tableau,R,Python,SQL,Azure,MLOPS,SRE
 
 ## Education
-- M.S.,Data Science        | DePaul University, Chicago (_March 2025_)								       		
-- M.Tech.,Database Systems | SRM University, Chennai (_March 2014_)	 			        		
-- B.Tech.,Computer Science | JNT University, Hyderabad (_May 2011_)
+- M.S.,Data Science        | DePaul University, Chicago, USA 					       		
+- M.Tech.,Database Systems | SRM University, Chennai, India        		
+- B.Tech.,Computer Science | JNT University, Hyderabad, India 
 
 ## Work Experience
 
