@@ -17,7 +17,7 @@ Processing, NLP, LLM's & GenAI.
 
 ## Work Experience
 
-**Research Assistant@ DePaul University (_Apr 2024 - sep 2024_)**
+**Research Assistant@ DePaul University (_Apr 2024 - Sep 2024_)**
 - ML approach for efficient NFV Resource Management and SFC Provisioning in Fog Computing.
 
 
