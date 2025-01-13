@@ -6,7 +6,7 @@ Processing, NLP, LLM's & GenAI.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,terraform,opencv,linux,git,jenkins,maven,kubernetes,docker,ansible,azure,bash,bitbucket,mysql,nginx,postman,py,pytorch,redhat" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,terraform,opencv,linux,git,jenkins,maven,kubernetes,docker,ansible,azure,bash,bitbucket,mysql,nginx,postman,redhat" />
   </a>
 </p>
 
