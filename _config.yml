@@ -1,5 +1,6 @@
-title: Taraka Paruchuru
-logo : images/SF_Tarak_headshot
-description : Transition of carrier
-theme: jekyll-theme-minimal
-show_downlaods : False
+title: "Taraka Paruchuru"
+logo: "images/SF_Tarak_headshot.jpeg" # Make sure to include the file extension (e.g., .jpg, .png)
+description: "Transition of Career"
+theme: "jekyll-theme-minimal"
+show_downloads: false # YAML uses lowercase for true/false
+
